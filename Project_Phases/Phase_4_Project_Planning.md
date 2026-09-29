@@ -3,7 +3,7 @@
 ## Team Structure & Roles
 - **Lokesh P (Lead):** Core architecture, FastAPI backend, Gemini API integration, and Render cloud deployment.
 - **Dharan kumar:** Requirement validation, workflow analysis, and project planning.
-- **Munniyapan:** Frontend UI layout, styling review, and component testing.
+- **Muniyappan:** Frontend UI layout, styling review, and component testing.
 - **Muthukumaran:** Project documentation, Kanban task organization, and submission auditing.
 
 ## Milestones & Timeline
@@ -28,5 +28,5 @@
 |------|-------------|-------------------|----------|-----------|
 | 1 | Lokesh | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 08 |
 | 2 | Dharan kumar| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 08 |
-| 3 | Munniyapan | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 08 |
+| 3 | Muniyappan | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 08 |
 | 4 | Muthukumar | Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 08 |
