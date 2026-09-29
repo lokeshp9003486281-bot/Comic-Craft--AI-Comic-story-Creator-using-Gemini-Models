@@ -1,8 +1,8 @@
 # Phase 8: Project Demonstration
 
 ## Demonstration Deliverables
-- **Live Application URL:** https://pocketsmart-ai-ay9c.onrender.com
-- **Project Demonstration Video:** [https://drive.google.com/file/d/1pX-LwD_HoHozeppNYZJs81WQ-FvHT7YU/view?usp=drivesdk]
+- **Live Application URL:
+- **Project Demonstration Video:
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
