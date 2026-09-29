@@ -12,7 +12,7 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 
 # Phase 1: Brainstorming & Ideation
-
+ 
 - *Date:* 29 September 2026
 - *Team ID:* 08
 - *Project Name:* ComicCraft - Al Comic Story Creator using Gemini Models
